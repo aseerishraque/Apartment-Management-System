@@ -1,0 +1,30 @@
+
+APartment management system
+
+login super admin
+Email :devsolver@gmail.com
+password:123456
+
+login  admin
+Email :devsolver@gmail.com
+password:654321
+
+login  own
+Email :umardarazknp2gmail.com
+password:1234
+
+login  rent
+Email :ali@gmail.com
+password:1234
+
+  CANDLECODE.COM - EXCLUSIVE SCRIPTS IN PHP, PLUGINS & MOBILE - DAILY RELEASES!
+
+  http://www.candlecode.com
+
+
+
+
+
+
+
+
