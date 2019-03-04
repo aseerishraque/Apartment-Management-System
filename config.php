@@ -1,8 +1,11 @@
 <?php
 define('CURRENCY', '$');
 define('WEB_URL', 'http://localhost/ams/');
-define('ROOT_PATH', 'C:\xampp\htdocs\ams/');
+define('ROOT_PATH', 'C:\wamp64\www\ams/');
 
 
-$link=mysqli_connect("localhost","root","","ams_final");
-?>
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD', '');
+define('DB_DATABASE', 'ams_final');
+$link = mysqli_connect(DB_HOSTNAME,DB_USERNAME,DB_PASSWORD,DB_DATABASE) or die(mysql_error());mysqli_select_db($link,DB_DATABASE) or die(mysql_error());?> 
