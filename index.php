@@ -78,7 +78,7 @@ function make_safe($variable)
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>SAKO Apartment Management System</title>
+<title>Apartment Management System</title>
 <!-- BOOTSTRAP STYLES-->
 <link href="assets/css/bootstrap.css" rel="stylesheet" />
 <!-- FONTAWESOME STYLES-->
@@ -98,7 +98,7 @@ function make_safe($variable)
   <br/>
   <div class="row text-center ">
     <div class="col-md-12"><br/>
-      <span style="font-size:35px;font-weight:bold;color:red;">SAKO</span> <span style="font-size:18px;">Apartment Management System</span></div>
+      <span style="font-size:35px;font-weight:bold;color:red;">Premium</span> <span style="font-size:18px;">Apartment Management System</span></div>
   </div>
   <br/>
   <div class="row ">
