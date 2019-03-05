@@ -1,4 +1,4 @@
-#Apartment-Management-System
+# Apartment-Management-System
 Apartment management is the operation, control, and oversight of real estate management indicates a need to be cared for, monitored and accountability given for its useful life and condition. This is much akin to the role of management in any business.
 
 Apartment management is also the management of personal Apartment, equipment, tooling, and physical capital assets that are acquired and used to build, repair, and maintain end item deliverables. Apartment management involves the processes, systems, and manpower required to manage the life cycle of all acquired Apartment as defined above including acquisition, control, accountability, responsibility, maintenance, utilization, and disposition.
