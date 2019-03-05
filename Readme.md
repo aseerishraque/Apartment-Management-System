@@ -1,0 +1,6 @@
+#Apartment-Management-System
+Apartment management is the operation, control, and oversight of real estate management indicates a need to be cared for, monitored and accountability given for its useful life and condition. This is much akin to the role of management in any business.
+
+Apartment management is also the management of personal Apartment, equipment, tooling, and physical capital assets that are acquired and used to build, repair, and maintain end item deliverables. Apartment management involves the processes, systems, and manpower required to manage the life cycle of all acquired Apartment as defined above including acquisition, control, accountability, responsibility, maintenance, utilization, and disposition.
+
+For example, an owner of a single family may engage the services of a Apartment management company. The company will then advertise the rental Apartment, handle tenant inquiries, screen applicants, select suitable candidates, draw up a lease agreement, conduct a move in inspection, move the tenant(s) into the Apartment and collect rental income. The company will then coordinate any maintenance issues, supply the owner(s) with financial statements and any relevant information regarding the Apartment etc. 
