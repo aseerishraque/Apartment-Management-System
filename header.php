@@ -34,7 +34,7 @@ include(ROOT_PATH.'language/'.$lang_code_global.'/lang_common.php');
 <html>
 <head>
 <meta charset="UTF-8">
-<title>SAKO AMS</title>
+<title>AMS</title>
 <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
 <!-- Bootstrap 3.3.4 -->
 <link href="<?php echo WEB_URL; ?>bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -72,7 +72,7 @@ include(ROOT_PATH.'language/'.$lang_code_global.'/lang_common.php');
   <!-- mini logo for sidebar mini 50x50 pixels -->
   <span class="logo-mini">AMS</span>
   <!-- logo for regular state and mobile devices -->
-  <span class="logo-lg"><b>SAKO</b> Apartment Management System</span> </a>
+  <span class="logo-lg"> Apartment Management System</span> </a>
   <!-- Header Navbar: style can be found in header.less -->
   <nav class="navbar navbar-static-top" role="navigation">
     <!-- Sidebar toggle button-->
